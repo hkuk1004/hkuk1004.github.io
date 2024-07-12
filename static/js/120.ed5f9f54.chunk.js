@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktour_mbti=self.webpackChunktour_mbti||[]).push([[120],{15120:(t,u,e)=>{e.r(u),e.d(u,{default:()=>s});e(65043);const s=()=>{}}}]);
+//# sourceMappingURL=120.ed5f9f54.chunk.js.map

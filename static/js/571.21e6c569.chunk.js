@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktour_mbti=self.webpackChunktour_mbti||[]).push([[571],{86571:(e,s,t)=>{t.r(s),t.d(s,{default:()=>u});t(65043);var r=t(70579);const u=()=>(0,r.jsx)("div",{children:"Answer"})}}]);
+//# sourceMappingURL=571.21e6c569.chunk.js.map

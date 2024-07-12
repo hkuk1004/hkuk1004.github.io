@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/571.21e6c569.chunk.js","mappings":"4JAEA,MAIA,EAJeA,KACNC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,U","sources":["routes/Answer.jsx"],"sourcesContent":["import React from \"react\";\n\nconst Answer = () => {\n  return <div>Answer</div>;\n};\n\nexport default Answer;\n"],"names":["Answer","_jsx","children"],"sourceRoot":""}
